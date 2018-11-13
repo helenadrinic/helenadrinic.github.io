@@ -323,7 +323,7 @@ header.masthead p {
 }
 
 .logo {
-    width: 10%;
+    width: 10% !important;
     position: absolute;
     top: 12%;
     left: 45%;
