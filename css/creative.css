@@ -206,6 +206,13 @@ header.masthead p {
   }
 }
 
+@media (max-width: 500px) {
+	.projectLink {
+		display: none;
+	}
+}
+
+
 @media (min-width: 992px) {
   header.masthead {
     height: 100vh;
